@@ -34,6 +34,7 @@ function generateMockFiles(baseName, language, totalBytes, numFiles) {
 }
 
 // Example usage:
-generateMockFiles('MockFile', 'js', 4927430, 10);
-generateMockFiles('MockFile', 'cs', 2969530, 10);
+generateMockFiles('Auto3P_frontend', 'js', 4927430, 10);
+generateMockFiles('Auto3P_Backend', 'cs', 2969530, 10);
+generateMockFiles('Code-Clique', 'js', 1202026, 3);
 
